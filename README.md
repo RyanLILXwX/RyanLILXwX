@@ -62,7 +62,7 @@ successfully accepted by CONF-CDS 2024.
 
 Feel free to contact with me on LinkedIn or shoot me an email if you'd like to collaborate on a project or just chat about coding and tech.
 
-- [LinkedIn](www.linkedin.com/in/hanzhenqin86)
+- [LinkedIn](https://www.linkedin.com/in/hanzhenqin86/)
 - [Handshake](https://app.joinhandshake.com/stu/users/33579174)
 
 Thanks for stopping by! 🚀
