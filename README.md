@@ -33,15 +33,6 @@ implementation for Matter connections.
 - Using: Python, C++, Go
 - [link](https://github.com/Yixuan-Shen/TT)
 
-### Project 2: Rensselaer Center for Open Source(RCOS) - A
-
-Specialized in data processing, web crawling, and extracting valuable information for the website development
-team. 
-
-- Using: Python
-- [link1](https://yacs.cs.rpi.edu)
-- [link2](https://github.com/RyanLIL-XwX/RCOS1)
-
 ### Project 3: Rensselaer Center for Open Scource(RCOS) - A
 
 Perform data mining and feature engineering on Decentralized finance data, and use sklearn's five machine learning models to predict the rise or fall of a certain currency price in the future. The highest success rate reaches 79.19%.
