@@ -42,6 +42,12 @@ team.
 - [link1](https://yacs.cs.rpi.edu)
 - [link2](https://github.com/RyanLIL-XwX/RCOS1)
 
+### Project 3: Rensselaer Center for Open Scource(RCOS) - A
+
+Perform data mining and feature engineering on Decentralized finance data, and use sklearn's five machine learning models to predict the rise or fall of a certain currency price in the future. The highest success rate reaches 79.19%.
+- Using: Python
+- [link1](https://github.com/2281469043/DeFi-Analysis/tree/main/src/qinh2)
+
 ### Project 3: Research program with professor Chirag Shah in University of Washington - AI
 
 Research on Contemporary Issues in Artificial Intelligence and Machine Learning Models. 
