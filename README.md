@@ -7,7 +7,7 @@ Welcome to my GitHub repository! This is where I showcase my projects and skills
 💻 I'm Ryan, a CS major passionate about coding and technology.
 
 - 🎓 Currently pursuing a degree in Computer Science at RPI.
-- 📧 You can reach me at lilryan988@gmail.com or qinh2@rpi.edu.
+- 📧 You can reach me at lilryan988@gmail.com or qinh2@rpi.edu or 13162306797@163.com.
 
 ## Skills
 
@@ -17,6 +17,7 @@ Here are some of the languages and technologies I'm proficient in:
 - Algorithm design and analysis
 - C
 - Java
+- R
 - C++
 - HTML/CSS
 
@@ -65,6 +66,13 @@ implementation for Matter connections.
 - Using: Python, C++, Go
 - [link](https://github.com/Yixuan-Shen/TT)
 
+### Rensselaer Center for Open Source(RCOS) MunchiMaps - A (Fall 2024)
+
+Developed a Python-based system to manage vending machine data, including real-time availability and 
+location. Implemented algorithms for shortest path optimization and finding nearest vending machines based 
+on user needs. Demonstrated strong skills in data modeling and algorithm design.
+- [link](https://github.com/RyanLIL-XwX/MunchiMaps_algorithm/tree/main/algorithm)
+
 ### Rensselaer Center for Open Source(RCOS) YACS - A (Fall 2022)
 Focus on data processing, web crawling and extracting valuable information for the website 
 development team.
@@ -78,6 +86,11 @@ development team.
 Write a paper called "Enhancing Automotive Interior Automation through Face Analysis Techniques", and 
 successfully accepted by CONF-CDS 2024.
 - [link](https://www.confcds.org)
+
+### International Journal of Intelligent Information and Management Science
+
+Write a paper called "The Application of Machine Learning Algorithms in Data Mining", and successfully 
+accepted by International Journal of Intelligent Information and Management Science.
 
 ## Get in Touch
 
