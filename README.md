@@ -48,6 +48,7 @@ Accomplish the design and implementation of a classification model development f
 responsibility for key components including data preprocessing, model development and optimization, and performance evaluation. Developed efficient preprocessing scripts to clean data, engineer features, and address class imbalance; created customized 
 evaluation functions to consolidate multiple performance metrics with intuitive visualizations; and implemented and optimized various classification algorithms (Logistic Regression, Decision Tree, Random Forest, etc.), transforming complex survival datasets into 
 actionable classification tasks with high predictive accuracy.
+- Using: R
 
 ### Rensselaer Center for Open Scource(RCOS) DEFI-analysis - A
 
