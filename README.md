@@ -42,6 +42,13 @@ image datasets and convert them into coco format json files, and used YOLOv8 and
 
 ## Projects
 
+### MATP 4910 - Data Analytics Research (DAR-DeFi-LTM-F24) - A
+
+Accomplish the design and implementation of a classification model development framework for survival data analysis alone, taking 
+responsibility for key components including data preprocessing, model development and optimization, and performance evaluation. Developed efficient preprocessing scripts to clean data, engineer features, and address class imbalance; created customized 
+evaluation functions to consolidate multiple performance metrics with intuitive visualizations; and implemented and optimized various classification algorithms (Logistic Regression, Decision Tree, Random Forest, etc.), transforming complex survival datasets into 
+actionable classification tasks with high predictive accuracy.
+
 ### Rensselaer Center for Open Scource(RCOS) DEFI-analysis - A
 
 Perform data mining and feature engineering on Decentralized finance data, and use sklearn's five machine learning models to predict the rise or fall of a certain currency price in the future. The highest success rate reaches 79.17%.
