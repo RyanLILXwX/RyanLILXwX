@@ -60,6 +60,7 @@ Perform data mining and feature engineering on Decentralized finance data, and u
 
 Research on Contemporary Issues in Artificial Intelligence and Machine Learning Models. 
 Prediction and Classification on Diverse Datasets using sklearn.
+- Using: Python
 - Utilized the sklearn library for prediction and classification tasks on datasets
 - Analyzed and evaluated model performance, and conducted tuning
 
@@ -79,6 +80,7 @@ implementation for Matter connections.
 Developed a Python-based system to manage vending machine data, including real-time availability and 
 location. Implemented algorithms for shortest path optimization and finding nearest vending machines based 
 on user needs. Demonstrated strong skills in data modeling and algorithm design.
+- Using: Python
 - [link](https://github.com/RyanLIL-XwX/MunchiMaps_algorithm/tree/main/algorithm)
 
 ### Rensselaer Center for Open Source(RCOS) YACS - A (Fall 2022)
