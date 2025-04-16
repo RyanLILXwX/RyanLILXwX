@@ -1,111 +1,59 @@
-# Hanzhen Qin's Profile
+## Hanzhen Qin
 
-Welcome to my GitHub repository! This is where I showcase my projects and skills as a computer science major at Rensselaer Polytechnic Institute (RPI).
+**Rensselaer Polytechnic Institute**  
+**Candidate:** Bachelor of Computer Science  
+**Expected Graduation:** 05/2025  
+**GPA:** 3.58 **Major GPA:** 3.66  
 
-## About Me
+**Address:** 2017 Hutton ST, Troy, NY, 12180  
+**Phone:** (1)929-583-8531  
+**Email:** lilryan988@gmail.com  
 
-💻 I'm Ryan, a CS major passionate about coding and technology.
+---
 
-- 🎓 Currently pursuing a degree in Computer Science at RPI.
-- 📧 You can reach me at lilryan988@gmail.com or qinh2@rpi.edu or 13162306797@163.com.
+## EXPERIENCE
 
-## Skills
+### Capgemini Consulting, Algorithm Engineer Assistant | June 2024 - August 2024
+Work on logistics routing problem and use Python to model the VRPTW model. The Dijkstra algorithm, kmeans and hierarchical clustering algorithms are mainly used to complete the path finding of the model and clustering of all orders. At the same time, the two-opt algorithm is also used to solve the self-intersection problem of the path. In the test results of multiple data sets, the full load rate exceeds 80%, and the result graph can show excellent routing effect. (https://github.com/RyanLIL-XwX/VRPTW_algo/tree/main/model/dijkstra)
 
-Here are some of the languages and technologies I'm proficient in:
+### Rensselaer Center for Open Source (RCOS) DEFI-analysis - A (Spring 2024) | Jan 2024 - May 2024
+Perform data mining and feature engineering on Decentralized finance data, and use sklearn's five machine learning models to predict the rise or fall of a certain currency price in the future. The highest success rate reaches 79.17%. (https://github.com/2281469043/DeFi-Analysis/tree/main/src/qinh2)
 
-- Python
-- Algorithm design and analysis
-- C
-- Java
-- R
-- C++
-- HTML/CSS
+### Undergraduate Research Program  
+**MATP 4910 - Data Analytics Research (DAR-DeFi-LTM-F24) - A** | Sep 2024 - Dec 2024  
+**Deep Learning for DeFi Market (DMLR_DeFi_Survival_Benchmark)** | Jan 2025 - May 2025  
+Developed a robust and fully automated classification pipeline for transforming large-scale survival analysis tasks into binary classification problems within decentralized finance (DeFi) datasets. Designed end-to-end support for traditional machine learning models (Logistic Regression, Decision Tree, XGBoost, Elastic Net) and deep learning models (DeepHit, Feedforward Neural Network). Implemented a unified training and evaluation strategy with dynamic SMOTE logic, validation-based model selection, and threshold tuning. Built the pipeline with modularity and scalability in mind, enabling easy integration of new models and datasets. As a co-author, I collaborated with my team members to publish a paper titled "FinSurvival: A Suite of Large Scale Survival Modeling Tasks from Finance" at the DMLR conference.
 
-## Internship
+### Bytedance, Computer Vision Engineer Assistant | August 2024 - Sep 2024
+Used OpenCV, pytorch, COCO, and other language libraries to process large image databases, divide image datasets and convert them into coco format json files, and used YOLOv8 and EfficientDet models to perform target detection on image data. (https://github.com/RyanLIL-XwX/bytedance_intern/tree/main)
 
-### Capgemini Consulting, Algorithm Engineer Assistant
-Work on logistics routing problem and use Python to model the VRPTW model. The dijkstra 
-algorithm, kmeans and hierarchical clustering algorithms are mainly used to complete the 
-path finding of the model and clustering of all orders. At the same time, the two-opt algorithm 
-is also used to solve the self-intersection problem of the path. In the test results of multiple 
-data sets, the full load rate exceeds 80%, and the result graph can show excellent routing 
-effect.
-- Using: Python, sklearn, numpy, algorithm design
-- [link](https://github.com/RyanLIL-XwX/VRPTW_algo/tree/main/model/dijkstra)
+### The 6th International Conference on Computing and Data Science (CONF-CDS2024) | Sep 2023 - Dec 2023
+Write a paper called "Enhancing Automotive Interior Automation through Face Analysis Techniques", and successfully accepted by CONF-CDS 2024. (https://www.confcds.org)
 
-### Bytedance, Computer Vision Engineer Assistant
-Used OpenCV, pytorch, COCO, and other language libraries to process large image databases, divide 
-image datasets and convert them into coco format json files, and used YOLOv8 and EfficientDet models to
- perform target detection on image data.
- - Using: Python, pytorch, coco, Yolov8, OpenCV
- - [link](https://github.com/RyanLIL-XwX/bytedance_intern/tree/main)
+### Intel Edge-X Coding Competition - 1st Place, 2000 dollars prize | May 2023 - Sep 2023
+Led team in the Edge-X competition supported by Intel, focusing on developing an interactive program named TT, an open-source tracking network providing IoT devices with relative location information independent of high power consumption or satellite signals. Spearheaded API creation for seamless integration, utilizing Matter for Bluetooth transmission and location recognition akin to AirTag. Undertook diverse responsibilities, including API writing, computational algorithm development, documentation, and C++ implementation for Matter connections. (https://github.com/Yixuan-Shen/TT)
 
-## Projects
+### Research program with professor Chirag Shah in University of Washington - AI | Sep 2023 - Nov 2023
+Conducted research on contemporary issues in Artificial Intelligence and Machine Learning, focusing on prediction and classification tasks using diverse datasets. Utilized the sklearn library for model implementation, performance evaluation, and hyperparameter tuning to improve accuracy and generalization.
 
-### MATP 4910 - Data Analytics Research (DAR-DeFi-LTM-F24) - A
+### International Journal of Intelligent Information and Management Science | May 2024 - Oct 2024
+Write a paper called "The Application of Machine Learning Algorithms in Data Mining", and successfully accepted by International Journal of Intelligent Information and Management Science.
 
-Accomplish the design and implementation of a classification model development framework for survival data analysis alone, taking 
-responsibility for key components including data preprocessing, model development and optimization, and performance evaluation. Developed efficient preprocessing scripts to clean data, engineer features, and address class imbalance; created customized 
-evaluation functions to consolidate multiple performance metrics with intuitive visualizations; and implemented and optimized various classification algorithms (Logistic Regression, Decision Tree, Random Forest, etc.), transforming complex survival datasets into 
-actionable classification tasks with high predictive accuracy.
-- Using: R
+### Rensselaer Center for Open Source (RCOS) MunchiMaps - A (Fall 2024) | Sep 2024 - Dec 2024
+Developed a Python-based system to manage and interact with vending machine data from a CSV file, featuring real-time availability checking, location mapping, and nearest-machine finding based on user needs. Integrated functionalities include data processing, shortest path algorithm between machines to meet all needs, and visualization of vending locations and routes on a map. (https://github.com/mike-cautela/MunchiMaps/tree/main/algorithm)
 
-### Rensselaer Center for Open Scource(RCOS) DEFI-analysis - A
+---
 
-Perform data mining and feature engineering on Decentralized finance data, and use sklearn's five machine learning models to predict the rise or fall of a certain currency price in the future. The highest success rate reaches 79.17%.
-- Using: Python
-- [link1](https://github.com/2281469043/DeFi-Analysis/tree/main/src/qinh2)
+## SKILLS
+Python, Sklearn, Numpy, OpenCV, R, C, Java, C++, HTML/CSS
 
-### Research program with professor Chirag Shah in University of Washington - AI
+---
 
-Research on Contemporary Issues in Artificial Intelligence and Machine Learning Models. 
-Prediction and Classification on Diverse Datasets using sklearn.
-- Using: Python
-- Utilized the sklearn library for prediction and classification tasks on datasets
-- Analyzed and evaluated model performance, and conducted tuning
+## WEBSITES, PROFILES
+**Handshake:** https://app.joinhandshake.com/stu/users/33579174  
+**LinkedIn:** https://www.linkedin.com/in/hanzhenqin86
 
-### Intel Edge-X Coding Competition - 1st Place, 2000 dollars prize
+---
 
-Led team in the Edge-X competition supported by Intel, focusing on developing an interactive program 
-named TT -- an open-source tracking network providing IoT devices with relative location information 
-independent of high power consumption or satellite signals. Spearheaded API creation for seamless 
-integration, utilizing Matter for Bluetooth transmission and location recognition akin to AirTag. Undertook 
-diverse responsibilities, including API writing, computational algorithm development, documentation,and C++
-implementation for Matter connections.
-- Using: Python, C++, Go
-- [link](https://github.com/Yixuan-Shen/TT)
-
-### Rensselaer Center for Open Source(RCOS) MunchiMaps - A (Fall 2024)
-
-Developed a Python-based system to manage vending machine data, including real-time availability and 
-location. Implemented algorithms for shortest path optimization and finding nearest vending machines based 
-on user needs. Demonstrated strong skills in data modeling and algorithm design.
-- Using: Python
-- [link](https://github.com/RyanLIL-XwX/MunchiMaps_algorithm/tree/main/algorithm)
-
-### Rensselaer Center for Open Source(RCOS) YACS - A (Fall 2022)
-Focus on data processing, web crawling and extracting valuable information for the website 
-development team.
-- Using: Python
-- [link](https://github.com/RyanLIL-XwX/RCOS1)
-
-## Contributions
-
-### The 6th International Conference on Computing and Data Science (CONF-CDS 2024)
-
-Write a paper called "Enhancing Automotive Interior Automation through Face Analysis Techniques", and 
-successfully accepted by CONF-CDS 2024.
-- [link](https://www.confcds.org)
-
-### International Journal of Intelligent Information and Management Science
-
-Write a paper called "The Application of Machine Learning Algorithms in Data Mining", and successfully 
-accepted by International Journal of Intelligent Information and Management Science.
-
-## Get in Touch
-
-Feel free to contact with me on LinkedIn or shoot me an email if you'd like to collaborate on a project or just chat about coding and tech.
-- [LinkedIn](https://www.linkedin.com/in/hanzhenqin86/)
-- [Handshake](https://app.joinhandshake.com/stu/users/33579174)
-
-Thanks for stopping by! 🚀
+## Additional Information
+qinh2@rpi.edu, 13162306797@163.com
