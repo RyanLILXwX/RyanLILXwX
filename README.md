@@ -3,7 +3,7 @@
 **Rensselaer Polytechnic Institute**  
 **Candidate:** Bachelor of Computer Science  
 **Expected Graduation:** 05/2025  
-**GPA:** 3.58 **Major GPA:** 3.66  
+**GPA:** 3.6 **Major GPA:** 3.72  
 
 **Address:** 2017 Hutton ST, Troy, NY, 12180  
 **Phone:** (1)929-583-8531  
