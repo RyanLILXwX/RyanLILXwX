@@ -3,7 +3,7 @@
 **Rensselaer Polytechnic Institute**  
 **Candidate:** Bachelor of Computer Science  
 **Expected Graduation:** 05/2025  
-**GPA:** 3.6 **Major GPA:** 3.72  
+**GPA:** 3.6 **Major GPA:** 3.72 
 
 **Address:** 2017 Hutton ST, Troy, NY, 12180  
 **Phone:** (1)929-583-8531  
@@ -14,7 +14,7 @@
 ## EXPERIENCE
 
 ### Capgemini Consulting, Algorithm Engineer Assistant | June 2024 - August 2024
-Work on logistics routing problem and use Python to model the VRPTW model. The Dijkstra algorithm, kmeans and hierarchical clustering algorithms are mainly used to complete the path finding of the model and clustering of all orders. At the same time, the two-opt algorithm is also used to solve the self-intersection problem of the path. In the test results of multiple data sets, the full load rate exceeds 80%, and the result graph can show excellent routing effect. (https://github.com/RyanLIL-XwX/VRPTW_algo/tree/main/model/dijkstra)
+Work on logistics routing problem and use Python to model the VRPTW model. The Dijkstra algorithm, kmeans and hierarchical clustering algorithms are mainly used to complete the path finding of the model and clustering of all orders. At the same time, the two-opt algorithm is also used to solve the self-intersection problem of the path. In the test results of multiple data sets, the full load rate exceeds 80%, and the result graph can show excellent routing effect. (https://github.com/RyanLIL-XwX/VRPTW_algo.git)
 
 ### Rensselaer Center for Open Source (RCOS) DEFI-analysis - A (Spring 2024) | Jan 2024 - May 2024
 Perform data mining and feature engineering on Decentralized finance data, and use sklearn's five machine learning models to predict the rise or fall of a certain currency price in the future. The highest success rate reaches 79.17%. (https://github.com/2281469043/DeFi-Analysis/tree/main/src/qinh2)
@@ -25,13 +25,13 @@ Perform data mining and feature engineering on Decentralized finance data, and u
 Developed a robust and fully automated classification pipeline for transforming large-scale survival analysis tasks into binary classification problems within decentralized finance (DeFi) datasets. Designed end-to-end support for traditional machine learning models (Logistic Regression, Decision Tree, XGBoost, Elastic Net) and deep learning models (DeepHit, Feedforward Neural Network). Implemented a unified training and evaluation strategy with dynamic SMOTE logic, validation-based model selection, and threshold tuning. Built the pipeline with modularity and scalability in mind, enabling easy integration of new models and datasets. As a co-author, I collaborated with my team members to publish a paper titled "FinSurvival: A Suite of Large Scale Survival Modeling Tasks from Finance" at the DMLR conference.
 
 ### Bytedance, Computer Vision Engineer Assistant | August 2024 - Sep 2024
-Used OpenCV, pytorch, COCO, and other language libraries to process large image databases, divide image datasets and convert them into coco format json files, and used YOLOv8 and EfficientDet models to perform target detection on image data. [https://github.com/RyanLIL-XwX/bytedance_intern/tree/main](https://github.com/RyanLIL-XwX/bytedance_intern.git)
+Used OpenCV, pytorch, COCO, and other language libraries to process large image databases, divide image datasets and convert them into coco format json files, and used YOLOv8 and EfficientDet models to perform target detection on image data. (https://github.com/RyanLIL-XwX/bytedance_intern.git)
 
 ### The 6th International Conference on Computing and Data Science (CONF-CDS2024) | Sep 2023 - Dec 2023
 Write a paper called "Enhancing Automotive Interior Automation through Face Analysis Techniques", and successfully accepted by CONF-CDS 2024. (https://www.confcds.org)
 
 ### Intel Edge-X Coding Competition - 1st Place, 2000 dollars prize | May 2023 - Sep 2023
-Led team in the Edge-X competition supported by Intel, focusing on developing an interactive program named TT, an open-source tracking network providing IoT devices with relative location information independent of high power consumption or satellite signals. Spearheaded API creation for seamless integration, utilizing Matter for Bluetooth transmission and location recognition akin to AirTag. Undertook diverse responsibilities, including API writing, computational algorithm development, documentation, and C++ implementation for Matter connections. (https://github.com/Yixuan-Shen/TT)
+Led team in the Edge-X competition supported by Intel, focusing on developing an interactive program named TT, an open-source tracking network providing IoT devices with relative location information independent of high power consumption or satellite signals. Spearheaded API creation for seamless integration, utilizing Matter for Bluetooth transmission and location recognition akin to AirTag. Undertook diverse responsibilities, including API writing, computational algorithm development, documentation, and C++ implementation for Matter connections. (https://github.com/Yixuan-Shen/TT.git)
 
 ### Research program with professor Chirag Shah in University of Washington - AI | Sep 2023 - Nov 2023
 Conducted research on contemporary issues in Artificial Intelligence and Machine Learning, focusing on prediction and classification tasks using diverse datasets. Utilized the sklearn library for model implementation, performance evaluation, and hyperparameter tuning to improve accuracy and generalization.
@@ -56,4 +56,4 @@ Python, Sklearn, Numpy, OpenCV, R, C, Java, C++, HTML/CSS
 ---
 
 ## Additional Information
-qinh2@rpi.edu, 13162306797@163.com
+hanzhenq@usc.edu, 13162306797@163.com
