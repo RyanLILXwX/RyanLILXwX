@@ -5,7 +5,7 @@
 **Expected Graduation:** 05/2025  
 **GPA:** 3.6 **Major GPA:** 3.72 
 
-**Address:** 2017 Hutton ST, Troy, NY, 12180  
+**Address:** 1207 Hutton ST, Troy, NY, 12180  
 **Phone:** (1)929-583-8531  
 **Email:** lilryan988@gmail.com  
 
@@ -25,7 +25,7 @@ Perform data mining and feature engineering on Decentralized finance data, and u
 Developed a robust and fully automated classification pipeline for transforming large-scale survival analysis tasks into binary classification problems within decentralized finance (DeFi) datasets. Designed end-to-end support for traditional machine learning models (Logistic Regression, Decision Tree, XGBoost, Elastic Net) and deep learning models (DeepHit, Feedforward Neural Network). Implemented a unified training and evaluation strategy with dynamic SMOTE logic, validation-based model selection, and threshold tuning. Built the pipeline with modularity and scalability in mind, enabling easy integration of new models and datasets. As a co-author, I collaborated with my team members to publish a paper titled "FinSurvival: A Suite of Large Scale Survival Modeling Tasks from Finance" at the DMLR conference.
 
 ### Bytedance, Computer Vision Engineer Assistant | August 2024 - Sep 2024
-Used OpenCV, pytorch, COCO, and other language libraries to process large image databases, divide image datasets and convert them into coco format json files, and used YOLOv8 and EfficientDet models to perform target detection on image data. (https://github.com/RyanLIL-XwX/bytedance_intern.git)
+Developed four end-to-end computer vision systems, including image stitching via SIFT and homography, Fashion-MNIST classification with PCA and k-NN, RCNN-based object detection with mAP evaluation, and independent motion detection using optical flow and FOE estimation. Gained hands-on experience in OpenCV, PyTorch, NumPy, and model evaluation metrics. Delivered modular, visualized, and performance-driven implementations with a strong focus on robustness and parameter tuning (https://github.com/RyanLIL-XwX/bytedance_intern.git)
 
 ### The 6th International Conference on Computing and Data Science (CONF-CDS2024) | Sep 2023 - Dec 2023
 Write a paper called "Enhancing Automotive Interior Automation through Face Analysis Techniques", and successfully accepted by CONF-CDS 2024. (https://www.confcds.org)
