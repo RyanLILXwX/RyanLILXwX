@@ -45,7 +45,8 @@ Developed a Python-based system to manage and interact with vending machine data
 ---
 
 ## SKILLS
-Python, Sklearn, Numpy, OpenCV, R, C, Java, C++, HTML/CSS
+
+Python, NumPy, Pandas, Scikit-learn, OpenCV, Pillow, Matplotlib, Seaborn, C, Java, R, C++, HTML/CSS
 
 ---
 
