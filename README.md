@@ -51,8 +51,8 @@ Python, NumPy, Pandas, Scikit-learn, OpenCV, Pillow, Matplotlib, Seaborn, C, Jav
 ---
 
 ## WEBSITES, PROFILES
-**Handshake:** https://app.joinhandshake.com/stu/users/33579174  
-**LinkedIn:** https://www.linkedin.com/in/hanzhenqin86
+**Handshake:** https://app.joinhandshake.com/profiles/hanzhenqin
+**LinkedIn:** https://www.linkedin.com/in/hanzhenqin
 
 ---
 
