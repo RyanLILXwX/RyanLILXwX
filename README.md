@@ -1,60 +1,119 @@
-## Hanzhen Qin
+# Hanzhen Qin
 
-**Rensselaer Polytechnic Institute**  
-**Candidate:** Bachelor of Computer Science  
-**Expected Graduation:** 05/2025  
-**GPA:** 3.6 **Major GPA:** 3.72 
-
-**Address:** 1207 Hutton ST, Troy, NY, 12180  
+**Address:** Los Angeles, CA  
 **Phone:** (1)929-583-8531  
-**Email:** lilryan988@gmail.com  
+**Email:** lilryan988@gmail.com
+
+## Education
+
+**University of Southern California**
+- **Candidate:** Master of Computer Science
+- Jan 2026 - Dec 2027 (Los Angeles, CA)
+
+**Rensselaer Polytechnic Institute**
+- **Candidate:** Bachelor of Computer Science
+- **GPA:** 3.6 **Major GPA:** 3.72
+- **Courses**: Data Structure, Operating System, Algorithms, Linear Algebra, AI and Blockchain, Machine Learning from Data, 
+Software Design and Documentation, Data Analytics Research, Computation Vision, Deep Learning for DEFI Market
+- Aug 2021 – May 2025 (Troy, NY)
 
 ---
 
-## EXPERIENCE
+## Experience
 
-### Capgemini Consulting, Algorithm Engineer Assistant | June 2024 - August 2024
-Work on logistics routing problem and use Python to model the VRPTW model. The Dijkstra algorithm, kmeans and hierarchical clustering algorithms are mainly used to complete the path finding of the model and clustering of all orders. At the same time, the two-opt algorithm is also used to solve the self-intersection problem of the path. In the test results of multiple data sets, the full load rate exceeds 80%, and the result graph can show excellent routing effect. (https://github.com/RyanLILXwX/VRPTW_algo.git)
+### Mechcraft Tech (Aug 2025 – Oct 2025 | New York, NY)
 
-### Rensselaer Center for Open Source (RCOS) DEFI-analysis - A (Spring 2024) | Jan 2024 - May 2024
-Perform data mining and feature engineering on Decentralized finance data, and use sklearn's five machine learning models to predict the rise or fall of a certain currency price in the future. The highest success rate reaches 79.17%. (https://github.com/2281469043/DeFi-Analysis/tree/main/src/qinh2)
+#### Machine Learning Engineer Intern, Quantitative Research Division
 
-### Undergraduate Research Program  
-**MATP 4910 - Data Analytics Research (DAR-DeFi-LTM-F24) - A** | Sep 2024 - Dec 2024  
-**Deep Learning for DeFi Market (DMLR_DeFi_Survival_Benchmark)** | Jan 2025 - May 2025  
-Developed a robust and fully automated classification pipeline for transforming large-scale survival analysis tasks into binary classification problems within decentralized finance (DeFi) datasets. Designed end-to-end support for traditional machine learning models (Logistic Regression, Decision Tree, XGBoost, Elastic Net) and deep learning models (DeepHit, Feedforward Neural Network). Implemented a unified training and evaluation strategy with dynamic SMOTE logic, validation-based model selection, and threshold tuning. Built the pipeline with modularity and scalability in mind, enabling easy integration of new models and datasets. As a co-author, I collaborated with my team members to publish a paper titled "FinSurvival: A Suite of Large Scale Survival Modeling Tasks from Finance" at the DMLR conference.
+- Designed and implemented an end-to-end machine learning pipeline for high-frequency cryptocurrency price prediction 
+(BTC/USDT, ETH/USDT, BNB/USDT, ADA/USDT) across 1–15 minute horizons.
+- Engineered data pipelines with Binance API for large-scale collection, applied feature engineering (technical indicators, 
+volatility measures, order-flow imbalance), and implemented preprocessing for missing data, anomalies, and time gaps.
+- Built, trained, and evaluated LSTM, GRU, and GPT-2 models in PyTorch, incorporating regularization (dropout, batch 
+normalization, early stopping) and conducting hyperparameter tuning with Bayesian optimization.
+- Applied walk-forward validation and conducted model evaluation using RMSE, MAE, AUC, directional accuracy, Sharpe 
+ratio, and drawdown analysis with backtesting frameworks accounting for slippage and transaction costs.
+- Developed visualization dashboards and automated reporting tools for model interpretability, feature importance, and 
+performance attribution, supporting production-level quantitative trading strategies.
+- `Website`: Private
 
-### Bytedance, Computer Vision Engineer Assistant | August 2024 - Sep 2024
-Developed four end-to-end computer vision systems, including image stitching via SIFT and homography, Fashion-MNIST classification with PCA and k-NN, RCNN-based object detection with mAP evaluation, and independent motion detection using optical flow and FOE estimation. Gained hands-on experience in OpenCV, PyTorch, NumPy, and model evaluation metrics. Delivered modular, visualized, and performance-driven implementations with a strong focus on robustness and parameter tuning. (https://github.com/RyanLILXwX/bytedance_intern.git)
+### Capgemini Consulting (Jun 2024 - Aug 2024 | Shanghai, China)
 
-### The 6th International Conference on Computing and Data Science (CONF-CDS2024) | Sep 2023 - Dec 2023
-Write a paper called "Enhancing Automotive Interior Automation through Face Analysis Techniques", and successfully accepted by CONF-CDS 2024. (https://www.confcds.org) (https://www.researchgate.net/publication/380208969_Enhancing_automotive_interior_automation_through_face_analysis_techniques)
+#### Algorithm Engineer Intern
+- Developed and implemented a Python-based optimization model for the Vehicle Routing Problem with Time Windows 
+(VRPTW) to improve logistics routing efficiency.
+- Leveraged K-means and hierarchical clustering to group delivery orders and in each cluster applied Diijstra algorithm for 
+shortest-path calculation.
+- Enhanced route feasibility by integrating the 2-opt algorithm to eliminate path self-intersections, resulting in optimized 
+and cleaner routing solutions.
+- Validated across multiple datasets, consistently achieving >80% vehicle load utilization.
+- `Website`: https://github.com/RyanLILXwX/VRPTW_algo/tree/main/model/dijkstra
 
-### Intel Edge-X Coding Competition - 1st Place, 2000 dollars prize | May 2023 - Sep 2023
-Led team in the Edge-X competition supported by Intel, focusing on developing an interactive program named TT, an open-source tracking network providing IoT devices with relative location information independent of high power consumption or satellite signals. Spearheaded API creation for seamless integration, utilizing Matter for Bluetooth transmission and location recognition akin to AirTag. Undertook diverse responsibilities, including API writing, computational algorithm development, documentation, and C++ implementation for Matter connections. (https://github.com/Yixuan-Shen/TT.git)
+### Decentralized Finance Machine Learning Project (Jan 2024 – May 2025 | Troy, NY)
+- **Rensselaer Center for Open Source (RCOS) DEFI-analysis - A (Jan 2024 - May 2024)**
+- **MATP 4910 - Data Analytics Research (DAR-DeFi-LTM-F24) - A (Sep 2024 - Dec 2024)**
+- **Deep Learning for DeFi Market `DMLR_DeFi_Survival_Benchmark` - A (Jan 2025 - May 2025)**
 
-### Research program with professor Chirag Shah in University of Washington - AI | Sep 2023 - Nov 2023
-Conducted research on contemporary issues in Artificial Intelligence and Machine Learning, focusing on prediction and classification tasks using diverse datasets. Utilized the sklearn library for model implementation, performance evaluation, and hyperparameter tuning to improve accuracy and generalization.
+#### Research Assistant, Undergraduate Research Program
+- Designed and built a modular ML pipeline to transform large-scale survival analysis tasks into binary classification 
+problems on Decentralized Finance (DeFi) datasets, enabling rapid experimentation and integration of new models.
+- Implemented multiple machine learning models (Logistic Regression, Random Forest, Elastic Net, XGBoost, DeepHit) 
+using scikit-learn, PyTorch, and R, with automated training and evaluation workflows.
+- Developed a robust feature engineering and data preprocessing framework, including dynamic SMOTE oversampling, 
+automated hyperparameter tuning and validation-driven model selection to maximize predictive performance.
+- Established a unified training/evaluation strategy with reproducibility, scalability, and extensibility as core design 
+principles.
+- `Website`:
+    - (Jan 2024 - May 2024) https://github.com/2281469043/DeFi-Analysis/tree/main/src/qinh2
+    - (Sep 2024 - Dec 2024) Private
+    - (Jan 2025 - May 2025) Private
 
-### International Journal of Intelligent Information and Management Science | May 2024 - Oct 2024
-Write a paper called "The Application of Machine Learning Algorithms in Data Mining", and successfully accepted by International Journal of Intelligent Information and Management Science.
+### ByteDance (Aug 2024 - Sep 2024 | Beijing, China)
 
-### Rensselaer Center for Open Source (RCOS) MunchiMaps - A (Fall 2024) | Sep 2024 - Dec 2024
-Developed a Python-based system to manage and interact with vending machine data from a CSV file, featuring real-time availability checking, location mapping, and nearest-machine finding based on user needs. Integrated functionalities include data processing, shortest path algorithm between machines to meet all needs, and visualization of vending locations and routes on a map. (https://github.com/mike-cautela/MunchiMaps/tree/main/algorithm)
+#### Computer Vision Engineer Intern
+- Built four end-to-end computer vision systems (image stitching, Fashion-MNIST classification, RCNN-based object 
+detection, and motion detection) using OpenCV, PyTorch, and NumPy.
+- `Website`: https://github.com/RyanLILXwX/bytedance_intern.git
+
+### Rensselaer Center for Open Source (RCOS) MunchiMaps - A (Sep 2024 - Dec 2024 | Troy, NY)
+
+#### Backend Algorithm Engineer
+- Designed and implemented a Python-based system to manage vending machine data from CSV files, including building information, available items, operating hours, and geospatial coordinates.
+- Built real-time availability checking functionality by integrating datetime logic with vending machine operating schedules, ensuring accurate status detection.
+- Developed distance calculation and shortest-path routing algorithms using the Haversine formula and a Greedy approach to recommend optimal vending machine visits.
+- Created interactive geospatial visualizations with Folium, generating HTML maps that highlight machine locations and user-specific shortest paths.
+- `Website`: https://github.com/RyanLILXwX/MunchiMaps_algorithm/tree/main/algorithm
 
 ---
 
-## SKILLS
+## Awards and Publication
 
-Python, NumPy, Pandas, Scikit-learn, OpenCV, Pillow, Matplotlib, Seaborn, C, Java, R, C++, HTML/CSS
+- Green, A., Nie, Z., Qin, H., Seneviratne, O., Bennett, K. (2026). FinSurvival: A Suite of Large-Scale Survival Modeling Tasks 
+from Finance. Submitted to the workshop on Data-Centric Machine Learning Research (DMLR)
+- Qin, H. (2024). Enhancing automotive interior automation through face analysis techniques. The 6th International Conference 
+on Computing and Data Science.
+    - `Website`:
+        - (https://www.confcds.org)
+        - (https://www.researchgate.net/publication/380208969_Enhancing_automotive_interior_automation_through_face_analysis_techniques)
+- Qin, H. (2024). The Application of Machine Learning Algorithms in Data Mining. The International Journal of Intelligent 
+Information and Management Science.
+- First Place in Intel Edge-X Coding Competition (May 2023 - Sep 2023)
+    - `Website`: https://github.com/Yixuan-Shen/TT.git
 
 ---
 
-## WEBSITES, PROFILES
-**Handshake:** https://app.joinhandshake.com/profiles/hanzhenqin
-**LinkedIn:** https://www.linkedin.com/in/hanzhenqin
+## Skills
+
+### Analytical
+machine learning, computer vision, natural language processing, time series analysis, statistical analysis
+
+### Programming
+Python, MATLAB, PySpark, PyTorch, Pandas, Numpy, Scikit-learn, MLFlow, SQL, C++, Java
 
 ---
 
-## Additional Information
-hanzhenq@usc.edu, 13162306797@163.com
+## Websites and Profiles
+- **Handshake:** https://app.joinhandshake.com/profiles/hanzhenqin
+- **LinkedIn:** https://www.linkedin.com/in/hanzhenqin
+- **Github:** https://github.com/RyanLILXwX
+- **Additional Email:** hanzhenq@usc.edu, 13162306797@163.com
