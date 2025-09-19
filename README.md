@@ -77,8 +77,8 @@
 - Green, A., Nie, Z., Qin, H., Seneviratne, O., Bennett, K. (2026). FinSurvival: A Suite of Large-Scale Survival Modeling Tasks from Finance. Submitted to the workshop on Data-Centric Machine Learning Research (DMLR)
 - Qin, H. (2024). Enhancing automotive interior automation through face analysis techniques. The 6th International Conference on Computing and Data Science.
     - `Website`:
-        - (https://www.confcds.org)
-        - (https://www.researchgate.net/publication/380208969_Enhancing_automotive_interior_automation_through_face_analysis_techniques)
+        - https://www.confcds.org
+        - https://www.researchgate.net/publication/380208969_Enhancing_automotive_interior_automation_through_face_analysis_techniques
 - Qin, H. (2024). The Application of Machine Learning Algorithms in Data Mining. The International Journal of Intelligent Information and Management Science.
 - First Place in Intel Edge-X Coding Competition (May 2023 - Sep 2023)
     - `Website`: https://github.com/Yixuan-Shen/TT.git
