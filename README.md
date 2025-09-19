@@ -73,7 +73,7 @@
 ### Rensselaer Polytechnic Institute (Jan 2025 - May 2025 | Troy, NY)
 
 #### Undergraduate Mentor Program
-Undergraduate mentor of computer science class - INTRO TO ARTIFICIAL INTELLIG (CSCI-4150)
+- Undergraduate mentor of computer science class - INTRO TO ARTIFICIAL INTELLIG (CSCI-4150)
 
 ---
 
