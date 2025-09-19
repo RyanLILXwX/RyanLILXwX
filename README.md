@@ -70,6 +70,11 @@
 - Created interactive geospatial visualizations with Folium, generating HTML maps that highlight machine locations and user-specific shortest paths.
 - `Website`: https://github.com/RyanLILXwX/MunchiMaps_algorithm/tree/main/algorithm
 
+### Rensselaer Polytechnic Institute (Jan 2025 - May 2025 | Troy, NY)
+
+#### Undergraduate Mentor Program
+Undergraduate mentor of computer science class - INTRO TO ARTIFICIAL INTELLIG (CSCI-4150)
+
 ---
 
 ## Awards and Publication
