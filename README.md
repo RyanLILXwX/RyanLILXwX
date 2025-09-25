@@ -101,7 +101,7 @@ Python, MATLAB, PySpark, PyTorch, Pandas, Numpy, Scikit-learn, MLFlow, SQL, C++,
 ---
 
 ## Websites and Profiles
-- **Handshake:** https://app.joinhandshake.com/profiles/hanzhenqin
 - **LinkedIn:** https://www.linkedin.com/in/hanzhenqin
 - **Github:** https://github.com/RyanLILXwX
+- **Handshake:** https://app.joinhandshake.com/profiles/hanzhenqin
 - **Additional Email:** hanzhenq@usc.edu, 13162306797@163.com
