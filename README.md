@@ -26,7 +26,7 @@
 
 - Designed and implemented an end-to-end machine learning pipeline for high-frequency cryptocurrency price prediction (BTC/USDT, ETH/USDT, BNB/USDT, ADA/USDT) across 1–15 minute horizons.
 - Engineered data pipelines with Binance API for large-scale collection, applied feature engineering (technical indicators, volatility measures, order-flow imbalance), and implemented preprocessing for missing data, anomalies, and time gaps.
-- Built, trained, and evaluated LSTM, GRU, and GPT-2 models in PyTorch, incorporating regularization (dropout, batch normalization, early stopping) and conducting hyperparameter tuning with Bayesian optimization.
+- Built, trained, and evaluated LSTM, GRU, Transformer and GPT-2 models in PyTorch, incorporating regularization (dropout, batch normalization, early stopping) and conducting hyperparameter tuning with Bayesian optimization.
 - Applied walk-forward validation and conducted model evaluation using RMSE, MAE, AUC, directional accuracy, Sharpe ratio, and drawdown analysis with backtesting frameworks accounting for slippage and transaction costs.
 - Developed visualization dashboards and automated reporting tools for model interpretability, feature importance, and performance attribution, supporting production-level quantitative trading strategies.
 - `Website`: Private
