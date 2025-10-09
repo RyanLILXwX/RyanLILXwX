@@ -8,7 +8,7 @@
 
 **University of Southern California**
 - **Candidate:** Master of Computer Science
-- Jan 2026 - Dec 2027 (Los Angeles, CA)
+- Jan 2026 - May 2027 (Los Angeles, CA)
 
 **Rensselaer Polytechnic Institute**
 - **Candidate:** Bachelor of Computer Science
@@ -50,6 +50,7 @@
 - Implemented multiple machine learning models (Logistic Regression, Random Forest, Elastic Net, XGBoost, DeepHit) using scikit-learn, PyTorch, and R, with automated training and evaluation workflows.
 - Developed a robust feature engineering and data preprocessing framework, including dynamic SMOTE oversampling, automated hyperparameter tuning and validation-driven model selection to maximize predictive performance.
 - Established a unified training/evaluation strategy with reproducibility, scalability, and extensibility as core design principles.
+- Green, A., Nie, Z., Qin, H., Seneviratne, O., Bennett, K. (2026). FinSurvival: A Suite of Large-Scale Survival Modeling Tasks from Finance. Submitted to the workshop on Data-Centric Machine Learning Research (DMLR)
 - `Website`:
     - (Jan 2024 - May 2024) https://github.com/2281469043/DeFi-Analysis/tree/main/src/qinh2
     - (Sep 2024 - Dec 2024) Private
