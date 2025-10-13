@@ -1,6 +1,6 @@
 # Hanzhen Qin
 
-**Address:** Los Angeles, CA  
+**Address:** 960 W 7th St, Los Angeles, CA, 90017   
 **Phone:** (1)929-583-8531  
 **Email:** lilryan988@gmail.com
 
@@ -37,7 +37,7 @@
 - Developed and implemented a Python-based optimization model for the Vehicle Routing Problem with Time Windows (VRPTW) to improve logistics routing efficiency.
 - Leveraged K-means and hierarchical clustering to group delivery orders and in each cluster applied Diijstra algorithm for shortest-path calculation.
 - Enhanced route feasibility by integrating the 2-opt algorithm to eliminate path self-intersections, resulting in optimized and cleaner routing solutions.
-- Validated across multiple datasets, consistently achieving >80% vehicle load utilization.
+- Validated across multiple datasets, consistently achieving over 80% vehicle load utilization.
 - `Website`: https://github.com/RyanLILXwX/VRPTW_algo/tree/main/model/dijkstra
 
 ### Decentralized Finance Machine Learning Project (Jan 2024 – May 2025 | Troy, NY)
