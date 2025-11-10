@@ -88,7 +88,6 @@
         - https://www.researchgate.net/publication/380208969_Enhancing_automotive_interior_automation_through_face_analysis_techniques
 - Qin, H. (2024). The Application of Machine Learning Algorithms in Data Mining. The International Journal of Intelligent Information and Management Science.
 - First Place in Intel Edge-X Coding Competition (May 2023 - Sep 2023)
-    - `Website`: https://github.com/Yixuan-Shen/TT.git
 
 ---
 
