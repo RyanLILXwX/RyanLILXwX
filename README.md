@@ -42,9 +42,10 @@
 - `GitHub Repository`: https://github.com/RyanLILXwX/VRPTW_algo/tree/main/model/dijkstra
 
 ### Decentralized Finance Machine Learning Project (Jan 2024 – May 2025 | Troy, NY)
-- **Rensselaer Center for Open Source (RCOS) DEFI-analysis - A (Jan 2024 - May 2024)**
-- **MATP 4910 - Data Analytics Research (DAR-DeFi-LTM-F24) - A (Sep 2024 - Dec 2024)**
-- **Deep Learning for DeFi Market `DMLR_DeFi_Survival_Benchmark` - A (Jan 2025 - May 2025)**
+
+1. Rensselaer Center for Open Source (RCOS) DEFI-analysis - A (Jan 2024 - May 2024)
+2. MATP 4910 - Data Analytics Research (DAR-DeFi-LTM-F24) - A (Sep 2024 - Dec 2024)
+3. Deep Learning for DeFi Market (DMLR_DeFi_Survival_Benchmark) - A (Jan 2025 - May 2025)
 
 #### Research Assistant, Undergraduate Research Program
 - Designed and built a modular ML pipeline to transform large-scale survival analysis tasks into binary classification problems on Decentralized Finance (DeFi) datasets, enabling rapid experimentation and integration of new models.
