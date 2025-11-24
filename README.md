@@ -77,6 +77,8 @@
 
 #### Undergraduate Mentor Program
 - Undergraduate mentor of computer science class - INTRO TO ARTIFICIAL INTELLIG (CSCI-4150)
+- Led weekly help sessions and office hours to guide students through AI-related programming assignments.
+- Collaborated with the instructor to analyze frequent student issues and adjust course explanations, examples, and practice materials to improve overall comprehension.
 
 ---
 
