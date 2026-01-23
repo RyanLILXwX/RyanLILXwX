@@ -1,17 +1,17 @@
 # Hanzhen Qin
 
-**Address:** 960 W 7th St, Los Angeles, CA, 90017   
-**Phone:** (1)929-583-8531  
+**Address:** 960 W 7th St, Los Angeles, CA, 90017 
+**Phone:** (1)929-583-8531
 **Email:** lilryan988@gmail.com
 
 ## Education
 
 **University of Southern California**
 - **Candidate:** Master of Computer Science
-- Jan 2026 - May 2027 (Los Angeles, CA)
+- Jan 2026 - Dec 2027 (Los Angeles, CA)
 
 **Rensselaer Polytechnic Institute**
-- **Candidate:** Bachelor of Computer Science
+- **Candidate:** 
 - **GPA:** 3.6 **Major GPA:** 3.72
 - **Courses**: Data Structure, Operating System, Algorithms, Linear Algebra, AI and Blockchain, Machine Learning from Data, Software Design and Documentation, Data Analytics Research, Computation Vision, Deep Learning for DEFI Market
 - Aug 2021 – May 2025 (Troy, NY)
