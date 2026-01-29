@@ -11,7 +11,7 @@
 - Jan 2026 - Dec 2027 (Los Angeles, CA)
 
 **Rensselaer Polytechnic Institute**
-- **Candidate:** 
+- **Candidate:** Bachelor of Computer Science
 - **GPA:** 3.6 **Major GPA:** 3.72
 - **Courses**: Data Structure, Operating System, Algorithms, Linear Algebra, AI and Blockchain, Machine Learning from Data, Software Design and Documentation, Data Analytics Research, Computation Vision, Deep Learning for DEFI Market
 - Aug 2021 – May 2025 (Troy, NY)
