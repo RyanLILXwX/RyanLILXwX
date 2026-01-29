@@ -1,7 +1,7 @@
 # Hanzhen Qin
 
-**Address:** 960 W 7th St, Los Angeles, CA, 90017 
-**Phone:** (1)929-583-8531
+**Address:** 960 W 7th St, Los Angeles, CA, 90017  
+**Phone:** (1)929-583-8531  
 **Email:** lilryan988@gmail.com, hanzhenq@usc.edu
 
 ## Education
