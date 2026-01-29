@@ -2,7 +2,7 @@
 
 **Address:** 960 W 7th St, Los Angeles, CA, 90017 
 **Phone:** (1)929-583-8531
-**Email:** lilryan988@gmail.com
+**Email:** lilryan988@gmail.com, hanzhenq@usc.edu
 
 ## Education
 
@@ -64,15 +64,6 @@
 - Built four end-to-end computer vision systems (image stitching, Fashion-MNIST classification, RCNN-based object detection, and motion detection) using OpenCV, PyTorch, and NumPy.
 - `GitHub Repository`: https://github.com/RyanLILXwX/bytedance_intern.git
 
-### Rensselaer Center for Open Source (RCOS) MunchiMaps - A (Sep 2024 - Dec 2024 | Troy, NY)
-
-#### Backend Algorithm Engineer
-- Designed and implemented a Python-based system to manage vending machine data from CSV files, including building information, available items, operating hours, and geospatial coordinates.
-- Built real-time availability checking functionality by integrating datetime logic with vending machine operating schedules, ensuring accurate status detection.
-- Developed distance calculation and shortest-path routing algorithms using the Haversine formula and a Greedy approach to recommend optimal vending machine visits.
-- Created interactive geospatial visualizations with Folium, generating HTML maps that highlight machine locations and user-specific shortest paths.
-- `GitHub Repository`: https://github.com/RyanLILXwX/MunchiMaps_algorithm/tree/main/algorithm
-
 ### Rensselaer Polytechnic Institute (Jan 2025 - May 2025 | Troy, NY)
 
 #### Undergraduate Mentor Program
@@ -109,4 +100,4 @@ Python, MATLAB, PySpark, PyTorch, Pandas, Numpy, Scikit-learn, MLFlow, SQL, C++,
 - **LinkedIn:** https://www.linkedin.com/in/hanzhenqin
 - **Github:** https://github.com/RyanLILXwX
 - **Handshake**: https://app.joinhandshake.com/profiles/hanzhenqin
-- **Additional Email:** 13162306797@163.com, hanzhenq@usc.edu
+- **Additional Email:** 13162306797@163.com
