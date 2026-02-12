@@ -51,7 +51,7 @@
 - Implemented multiple machine learning models (Logistic Regression, Random Forest, Elastic Net, XGBoost, DeepHit) using scikit-learn, PyTorch, and R, with automated training and evaluation workflows.
 - Developed a robust feature engineering and data preprocessing framework, including dynamic SMOTE oversampling, automated hyperparameter tuning and validation-driven model selection to maximize predictive performance.
 - Established a unified training/evaluation strategy with reproducibility, scalability, and extensibility as core design principles.
-- Green, A., Nie, Z., Qin, H., Seneviratne, O., Bennett, K. (2026). FinSurvival: A Suite of Large-Scale Survival Modeling Tasks from Finance. Submitted to the workshop on Data-Centric Machine Learning Research (DMLR)
+- Green, A., Nie, Z., Qin, H., Seneviratne, O., Bennett, K. (2026). FinSurvival: A Suite of Large-Scale Survival Modeling Tasks from Finance. Submitted to the workshop on Data-Centric Machine Learning Research (ICML/DMLR)
 
 ### ByteDance (Aug 2024 - Sep 2024 | Beijing, China)
 
@@ -70,7 +70,7 @@
 
 ## Awards and Publication
 
-- Green, A., Nie, Z., Qin, H., Seneviratne, O., Bennett, K. (2026). FinSurvival: A Suite of Large-Scale Survival Modeling Tasks from Finance. Submitted to the workshop on Data-Centric Machine Learning Research (DMLR)
+- Green, A., Nie, Z., Qin, H., Seneviratne, O., Bennett, K. (2026). FinSurvival: A Suite of Large-Scale Survival Modeling Tasks from Finance. Submitted to the workshop on Data-Centric Machine Learning Research (ICML/DMLR)
     - `Website`: https://www.researchgate.net/publication/393889366_FinSurvival_A_Suite_of_Large_Scale_Survival_Modeling_Tasks_from_Finance
 - Qin, H. (2024). Enhancing automotive interior automation through face analysis techniques. The 6th International Conference on Computing and Data Science.
     - `Website`:
