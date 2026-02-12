@@ -30,7 +30,6 @@
 - Applied walk-forward validation and conducted model evaluation using precision, accuracy, F1 score, AUC and Sharpe ratio, and drawdown analysis with backtesting frameworks accounting for slippage and transaction costs.
 - Developed automated reporting tools for model interpretability, feature importance, and performance attribution, supporting production-level quantitative trading strategies.
 - Conducted a comprehensive evaluation of three open-source AI agent frameworks for quantitative trading (QLib, FinRL, Trading Agents), highlighting usability, backtesting, live-trading gaps, and integration requirements.
-- `GitHub Repository`: Private
 
 ### Capgemini Consulting (Jun 2024 - Aug 2024 | Shanghai, China)
 
@@ -53,10 +52,6 @@
 - Developed a robust feature engineering and data preprocessing framework, including dynamic SMOTE oversampling, automated hyperparameter tuning and validation-driven model selection to maximize predictive performance.
 - Established a unified training/evaluation strategy with reproducibility, scalability, and extensibility as core design principles.
 - Green, A., Nie, Z., Qin, H., Seneviratne, O., Bennett, K. (2026). FinSurvival: A Suite of Large-Scale Survival Modeling Tasks from Finance. Submitted to the workshop on Data-Centric Machine Learning Research (DMLR)
-- `GitHub Repository`:
-    - (Jan 2024 - May 2024) https://github.com/2281469043/DeFi-Analysis/tree/main/src/qinh2
-    - (Sep 2024 - Dec 2024) Private
-    - (Jan 2025 - May 2025) Private
 
 ### ByteDance (Aug 2024 - Sep 2024 | Beijing, China)
 
