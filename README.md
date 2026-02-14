@@ -57,7 +57,6 @@
 
 #### Computer Vision Engineer Intern
 - Built four end-to-end computer vision systems (image stitching, Fashion-MNIST classification, RCNN-based object detection, and motion detection) using OpenCV, PyTorch, and NumPy.
-- `GitHub Repository`: https://github.com/RyanLILXwX/bytedance_intern.git
 
 ### Rensselaer Polytechnic Institute (Jan 2025 - May 2025 | Troy, NY)
 
