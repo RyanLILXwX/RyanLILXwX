@@ -38,7 +38,7 @@
 - Leveraged K-means and hierarchical clustering to group delivery orders and in each cluster applied Diijstra algorithm for shortest-path calculation.
 - Enhanced route feasibility by integrating the 2-opt algorithm to eliminate path self-intersections, resulting in optimized and cleaner routing solutions.
 - Validated across multiple datasets, consistently achieving over 80% vehicle load utilization.
-- `GitHub Repository`: https://github.com/RyanLILXwX/VRPTW_algo/tree/main/model/dijkstra
+- [`GitHub Repository`](https://github.com/RyanLILXwX/VRPTW_algo/tree/main/model/dijkstra)
 
 ### Decentralized Finance Machine Learning Project (Jan 2024 – May 2025 | Troy, NY)
 
@@ -51,7 +51,7 @@
 - Implemented multiple machine learning models (Logistic Regression, Random Forest, Elastic Net, XGBoost, DeepHit) using scikit-learn, PyTorch, and R, with automated training and evaluation workflows.
 - Developed a robust feature engineering and data preprocessing framework, including dynamic SMOTE oversampling, automated hyperparameter tuning and validation-driven model selection to maximize predictive performance.
 - Established a unified training/evaluation strategy with reproducibility, scalability, and extensibility as core design principles.
-- Green, A., Nie, Z., Qin, H., Seneviratne, O., Bennett, K. (2026). FinSurvival: A Suite of Large-Scale Survival Modeling Tasks from Finance. Submitted to the workshop on Data-Centric Machine Learning Research (ICML/DMLR)
+- Green, A., Nie, Z., Qin, H., Seneviratne, O., Bennett, K. (2026). FinSurvival: A Suite of Large-Scale Survival Modeling Tasks from Finance. Accepted at the Data-Centric Machine Learning Research (DMLR) Workshop, 2026.
 
 ### ByteDance (Aug 2024 - Sep 2024 | Beijing, China)
 
@@ -69,12 +69,12 @@
 
 ## Awards and Publication
 
-- Green, A., Nie, Z., Qin, H., Seneviratne, O., Bennett, K. (2026). FinSurvival: A Suite of Large-Scale Survival Modeling Tasks from Finance. Submitted to the workshop on Data-Centric Machine Learning Research (ICML/DMLR)
-    - `Website`: https://www.researchgate.net/publication/393889366_FinSurvival_A_Suite_of_Large_Scale_Survival_Modeling_Tasks_from_Finance
+- Green, A., Nie, Z., Qin, H., Seneviratne, O., Bennett, K. (2026). FinSurvival: A Suite of Large-Scale Survival Modeling Tasks from Finance. Accepted at the Data-Centric Machine Learning Research (DMLR) Workshop, 2026.
+    - [`Essay`](https://www.researchgate.net/publication/393889366_FinSurvival_A_Suite_of_Large_Scale_Survival_Modeling_Tasks_from_Finance)
+    - [`DMLR Website`](https://openreview.net/forum?id=4sElt9JYTL)
 - Qin, H. (2024). Enhancing automotive interior automation through face analysis techniques. The 6th International Conference on Computing and Data Science.
-    - `Website`:
-        - https://www.confcds.org
-        - https://www.researchgate.net/publication/380208969_Enhancing_automotive_interior_automation_through_face_analysis_techniques
+    - [`Essay`](https://www.researchgate.net/publication/380208969_Enhancing_automotive_interior_automation_through_face_analysis_techniques)
+    - [`Conference Website`](https://www.confcds.org)
 - Qin, H. (2024). The Application of Machine Learning Algorithms in Data Mining. The International Journal of Intelligent Information and Management Science.
 - First Place in Intel Edge-X Coding Competition (May 2023 - Sep 2023)
 
@@ -93,5 +93,5 @@ Python, MATLAB, PySpark, PyTorch, Pandas, Numpy, Scikit-learn, MLFlow, SQL, C++,
 ## Websites and Profiles
 - **LinkedIn:** https://www.linkedin.com/in/hanzhenqin
 - **Github:** https://github.com/RyanLILXwX
-- **Handshake**: https://app.joinhandshake.com/profiles/hanzhenqin
+- **Handshake:** https://app.joinhandshake.com/profiles/hanzhenqin
 - **Additional Email:** 13162306797@163.com
