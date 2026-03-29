@@ -20,7 +20,7 @@
 
 ## Experience
 
-### Mechcraft Tech (Aug 2025 – Oct 2025 | New York, NY)
+### Mechcraft Tech (Aug 2025 – Oct 2025 | Remote: New York, NY)
 
 #### Machine Learning Engineer Intern, Quantitative Research Division
 
@@ -53,9 +53,9 @@
 - Established a unified training/evaluation strategy with reproducibility, scalability, and extensibility as core design principles.
 - Green, A., Nie, Z., Qin, H., Seneviratne, O., Bennett, K. (2026). FinSurvival: A Suite of Large-Scale Survival Modeling Tasks from Finance. Accepted at the Data-Centric Machine Learning Research (DMLR) Workshop, 2026.
 
-### ByteDance (Aug 2024 - Sep 2024 | Beijing, China)
+### ByteDance (Aug 2024 - Nov 2024 | Remote: Beijing, China)
 
-#### Computer Vision Engineer Intern
+#### Computer Vision Research Intern
 - Built four end-to-end computer vision systems (image stitching, Fashion-MNIST classification, RCNN-based object detection, and motion detection) using OpenCV, PyTorch, and NumPy.
 
 ### Rensselaer Polytechnic Institute (Jan 2025 - May 2025 | Troy, NY)
