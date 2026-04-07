@@ -31,14 +31,6 @@
 - Developed automated reporting tools for model interpretability, feature importance, and performance attribution, supporting production-level quantitative trading strategies.
 - Conducted a comprehensive evaluation of three open-source AI agent frameworks for quantitative trading (QLib, FinRL, Trading Agents), highlighting usability, backtesting, live-trading gaps, and integration requirements.
 
-### Capgemini Consulting (Jun 2024 - Aug 2024 | Shanghai, China)
-
-#### Algorithm Engineer Intern
-- Developed and implemented a Python-based optimization model for the Vehicle Routing Problem with Time Windows (VRPTW) to improve logistics routing efficiency.
-- Leveraged K-means and hierarchical clustering to group delivery orders and in each cluster applied Diijstra algorithm for shortest-path calculation.
-- Enhanced route feasibility by integrating the 2-opt algorithm to eliminate path self-intersections, resulting in optimized and cleaner routing solutions.
-- Validated across multiple datasets, consistently achieving over 80% vehicle load utilization.
-
 ### Decentralized Finance Machine Learning Project (Jan 2024 – May 2025 | Troy, NY)
 
 #### Research Assistant, Undergraduate Research Program
@@ -47,6 +39,14 @@
 - Developed a robust feature engineering and data preprocessing framework, including dynamic SMOTE oversampling, automated hyperparameter tuning and validation-driven model selection to maximize predictive performance.
 - Established a unified training/evaluation strategy with reproducibility, scalability, and extensibility as core design principles.
 - Green, A., Nie, Z., Qin, H., Seneviratne, O., Bennett, K. (2026). FinSurvival: A Suite of Large-Scale Survival Modeling Tasks from Finance. Accepted at the Data-Centric Machine Learning Research (DMLR) Workshop, 2026.
+
+### Capgemini Consulting (Jun 2024 - Aug 2024 | Shanghai, China)
+
+#### Algorithm Engineer Intern
+- Developed and implemented a Python-based optimization model for the Vehicle Routing Problem with Time Windows (VRPTW) to improve logistics routing efficiency.
+- Leveraged K-means and hierarchical clustering to group delivery orders and in each cluster applied Diijstra algorithm for shortest-path calculation.
+- Enhanced route feasibility by integrating the 2-opt algorithm to eliminate path self-intersections, resulting in optimized and cleaner routing solutions.
+- Validated across multiple datasets, consistently achieving over 80% vehicle load utilization.
 
 ### ByteDance (Aug 2024 - Nov 2024 | Remote: Beijing, China)
 
