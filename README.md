@@ -38,7 +38,6 @@
 - Leveraged K-means and hierarchical clustering to group delivery orders and in each cluster applied Diijstra algorithm for shortest-path calculation.
 - Enhanced route feasibility by integrating the 2-opt algorithm to eliminate path self-intersections, resulting in optimized and cleaner routing solutions.
 - Validated across multiple datasets, consistently achieving over 80% vehicle load utilization.
-- [`GitHub Repository`](https://github.com/RyanLILXwX/VRPTW_algo/tree/main/model/dijkstra)
 
 ### Decentralized Finance Machine Learning Project (Jan 2024 – May 2025 | Troy, NY)
 
