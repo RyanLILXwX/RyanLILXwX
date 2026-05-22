@@ -8,17 +8,28 @@
 
 **University of Southern California**
 - **Candidate:** Master of Computer Science
+- **GPA:** 4.0/4.0
 - Jan 2026 - Dec 2027 (Los Angeles, CA)
 
 **Rensselaer Polytechnic Institute**
 - **Candidate:** Bachelor of Computer Science
-- **GPA:** 3.6 **Major GPA:** 3.72
-- **Courses**: Data Structure, Operating System, Algorithms, Linear Algebra, AI and Blockchain, Machine Learning from Data, Software Design and Documentation, Data Analytics Research, Computation Vision, Deep Learning for DEFI Market
+- **GPA:** 3.6/4.0
 - Aug 2021 – May 2025 (Troy, NY)
 
 ---
 
 ## Experience
+
+### Graph-Grounded Multilingual LLM Evaluation for Medical Reasoning (Jan 2026 – Present | Los Angeles, CA)
+
+#### Research Assistant, USC Professor-Led Research Project
+
+- Designed and implemented a modular multilingual LLM evaluation framework for graph-grounded reasoning, covering Unique Best Match, repeated-sampling majority vote, Distribution, Unique Best Match GL, Distribution GL, and GBD-linked Disease Prevalence experiments.
+- Built data pipelines to standardize heterogeneous medical knowledge sources, including Hetionet, PrimeKG, HPO, SymbiPredict, and Kaggle-style datasets, into unified disease, symptom, and disease-symptom edge tables for scalable experiment generation.
+- Engineered multilingual prompt generation across 37 languages with translation glossaries, cached medical terminology, controlled option ordering, deterministic templates, and concurrent OpenAI API inference for reproducible LLM behavior analysis.
+- Developed a next-token probability reconstruction method using `top_logprobs` to convert single-letter LLM outputs into normalized candidate probability distributions, enabling fine-grained analysis beyond simple accuracy.
+- Built a GBD-to-graph prevalence bridge combining exact/normalized ontology matching, token-based candidate retrieval, structured GPT-4.1 review, and Babel official-language mapping to connect disease prevalence signals with multilingual model behavior.
+- Implemented an evaluation suite with accuracy, pairwise agreement, instability, Jensen-Shannon divergence, entropy, position bias, disease-level sensitivity, Graphical Lasso language networks, permutation testing, and CEPII colonial-history analysis.
 
 ### Mechcraft Tech (Aug 2025 – Oct 2025 | Remote: New York, NY)
 
@@ -78,15 +89,14 @@
 ## Skills
 
 ### Analytical
-machine learning, computer vision, natural language processing, time series analysis, statistical analysis
+machine learning, large language model evaluation, prompt engineering, multilingual NLP, data science, knowledge graph reasoning, medical ontology mapping, probability distribution analysis, statistical analysis, time series analysis, computer vision, natural language processing
 
 ### Programming
-Python, MATLAB, PySpark, PyTorch, Pandas, Numpy, Scikit-learn, MLFlow, SQL, C++, Java
+Python, MATLAB, PyTorch, Pandas, Numpy, Scikit-learn, MLFlow, PySpark
 
 ---
 
-## Websites and Profiles
+## Profiles
 - **LinkedIn:** https://www.linkedin.com/in/hanzhenqin
 - **Github:** https://github.com/RyanLILXwX
-- **Handshake:** https://app.joinhandshake.com/profiles/hanzhenqin
 - **Additional Email:** 13162306797@163.com
