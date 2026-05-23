@@ -18,7 +18,7 @@
 
 ---
 
-## Experience
+## Experiences
 
 ### Graph-Grounded Multilingual LLM Evaluation for Medical Reasoning (Jan 2026 – Present | Los Angeles, CA)
 
@@ -31,7 +31,7 @@
 - Built a GBD-to-graph prevalence bridge combining exact/normalized ontology matching, token-based candidate retrieval, structured GPT-4.1 review, and Babel official-language mapping to connect disease prevalence signals with multilingual model behavior.
 - Implemented an evaluation suite with accuracy, pairwise agreement, instability, Jensen-Shannon divergence, entropy, position bias, disease-level sensitivity, Graphical Lasso language networks, permutation testing, and CEPII colonial-history analysis.
 
-### Mechcraft Tech (Aug 2025 – Oct 2025 | Remote: New York, NY)
+### Mechcraft Tech (Aug 2025 – Nov 2025 | Remote: New York, NY)
 
 #### Machine Learning Engineer Intern, Quantitative Research Division
 
@@ -39,7 +39,7 @@
 - Engineered data pipelines with Binance API for large-scale collection, applied feature engineering (technical indicators, volatility measures, order-flow imbalance), and implemented preprocessing for missing data, anomalies, and time gaps.
 - Built, trained, and evaluated LSTM, GRU, and GPT-2 models in PyTorch, incorporating regularization (dropout, batch normalization, early stopping) and conducting hyperparameter tuning with Bayesian optimization.
 - Applied walk-forward validation and conducted model evaluation using precision, accuracy, F1 score, AUC and Sharpe ratio, and drawdown analysis with backtesting frameworks accounting for slippage and transaction costs.
-- Developed automated reporting tools for model interpretability, feature importance, and performance attribution, supporting production-level quantitative trading strategies.
+- Developed visualization dashboards and automated reporting tools for model interpretability, feature importance, and performance attribution, supporting production-level quantitative trading strategies.
 - Conducted a comprehensive evaluation of three open-source AI agent frameworks for quantitative trading (QLib, FinRL, Trading Agents), highlighting usability, backtesting, live-trading gaps, and integration requirements.
 
 ### Decentralized Finance Machine Learning Project (Jan 2024 – May 2025 | Troy, NY)
@@ -55,7 +55,7 @@
 
 #### Algorithm Engineer Intern
 - Developed and implemented a Python-based optimization model for the Vehicle Routing Problem with Time Windows (VRPTW) to improve logistics routing efficiency.
-- Leveraged K-means and hierarchical clustering to group delivery orders and in each cluster applied Diijstra algorithm for shortest-path calculation.
+- Leveraged K-means and hierarchical clustering to group delivery orders and in each cluster applied Dijkstra algorithm for shortest-path calculation.
 - Enhanced route feasibility by integrating the 2-opt algorithm to eliminate path self-intersections, resulting in optimized and cleaner routing solutions.
 - Validated across multiple datasets, consistently achieving over 80% vehicle load utilization.
 
@@ -75,6 +75,7 @@
 
 ## Awards and Publication
 
+- First Place in Intel Edge-X Coding Competition (Sep 2023)
 - Green, A., Nie, Z., Qin, H., Seneviratne, O., Bennett, K. (2026). FinSurvival: A Suite of Large-Scale Survival Modeling Tasks from Finance. Accepted at the Data-Centric Machine Learning Research (DMLR) Workshop, 2026.
     - [`Essay`](https://www.researchgate.net/publication/393889366_FinSurvival_A_Suite_of_Large_Scale_Survival_Modeling_Tasks_from_Finance)
     - [`DMLR Website`](https://openreview.net/forum?id=4sElt9JYTL)
@@ -82,17 +83,16 @@
     - [`Essay`](https://www.researchgate.net/publication/380208969_Enhancing_automotive_interior_automation_through_face_analysis_techniques)
     - [`Conference Website`](https://www.confcds.org)
 - Qin, H. (2024). The Application of Machine Learning Algorithms in Data Mining. The International Journal of Intelligent Information and Management Science.
-- First Place in Intel Edge-X Coding Competition (May 2023 - Sep 2023)
 
 ---
 
 ## Skills
 
 ### Analytical
-machine learning, large language model evaluation, prompt engineering, multilingual NLP, data science, knowledge graph reasoning, medical ontology mapping, probability distribution analysis, statistical analysis, time series analysis, computer vision, natural language processing
+Machine Learning, Deep Learning, Large Language Model Evaluation, Prompt Engineering, Multilingual NLP, Data Science, Algorithm Analysis, Probability Distribution Analysis, Statistical Analysis, Time Series Analysis, Computer Vision, Natural Language Processing
 
 ### Programming
-Python, MATLAB, PyTorch, Pandas, Numpy, Scikit-learn, MLFlow, PySpark
+Python, Numpy, PyTorch, Scikit-learn, Pandas, MATLAB, OpenCV, PySpark, MLflow
 
 ---
 
