@@ -59,11 +59,6 @@
 - Enhanced route feasibility by integrating the 2-opt algorithm to eliminate path self-intersections, resulting in optimized and cleaner routing solutions.
 - Validated across multiple datasets, consistently achieving over 80% vehicle load utilization.
 
-### ByteDance (Aug 2024 - Nov 2024 | Remote: Beijing, China)
-
-#### Computer Vision Research Intern
-- Built four end-to-end computer vision systems (image stitching, Fashion-MNIST classification, RCNN-based object detection, and motion detection) using OpenCV, PyTorch, and NumPy.
-
 ### Rensselaer Polytechnic Institute (Jan 2025 - May 2025 | Troy, NY)
 
 #### Undergraduate Mentor Program
