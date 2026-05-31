@@ -1,7 +1,5 @@
 # Hanzhen Qin
 
-**Email:** lilryan988@gmail.com, hanzhenq@usc.edu
-
 ## Education
 
 **University of Southern California**
@@ -74,7 +72,7 @@
 ## Skills
 
 ### Analytical
-Machine Learning, Deep Learning, Large Language Model Evaluation, Prompt Engineering, Multilingual NLP, Data Science, Algorithm Analysis, Probability Distribution Analysis, Statistical Analysis, Time Series Analysis, Computer Vision, Natural Language Processing
+Machine Learning, Deep Learning, Large Language Model Evaluation, Reinforcement Learning, LLM Agents, Medical LLMs, Prompt Engineering, Data Science, Algorithm Analysis, Time Series Analysis, Computer Vision, Natural Language Processing
 
 ### Programming
 Python, Numpy, PyTorch, Scikit-learn, Pandas, MATLAB, OpenCV, PySpark, MLflow
