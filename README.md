@@ -14,6 +14,16 @@
 
 ---
 
+## Skills
+
+### Analytical
+Machine Learning, Deep Learning, Large Language Model Evaluation, Reinforcement Learning, Algorithm Analysis, Probability Distribution Analysis, Statistical Analysis, Time Series Analysis, Computer Vision, Natural Language Processing
+
+### Programming
+Python, Numpy, PyTorch, Scikit-learn, Pandas, MATLAB, OpenCV, PySpark, MLflow
+
+---
+
 ## Experiences
 
 ### Graph-Grounded Multilingual LLM Evaluation for Medical Reasoning (Jan 2026 – Present | Los Angeles, CA)
@@ -66,16 +76,6 @@
 - Qin, H. (2024). Enhancing automotive interior automation through face analysis techniques. The 6th International Conference on Computing and Data Science.
     - [`Essay`](https://www.researchgate.net/publication/380208969_Enhancing_automotive_interior_automation_through_face_analysis_techniques)
     - [`Conference Website`](https://www.confcds.org)
-
----
-
-## Skills
-
-### Analytical
-Machine Learning, Deep Learning, Large Language Model Evaluation, Reinforcement Learning, LLM Agents, Medical LLMs, Prompt Engineering, Data Science, Algorithm Analysis, Time Series Analysis, Computer Vision, Natural Language Processing
-
-### Programming
-Python, Numpy, PyTorch, Scikit-learn, Pandas, MATLAB, OpenCV, PySpark, MLflow
 
 ---
 
