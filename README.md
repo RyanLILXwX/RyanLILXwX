@@ -30,7 +30,7 @@ Python, Numpy, PyTorch, Scikit-learn, Pandas, MATLAB, OpenCV, MLflow
 
 ### Graph-Grounded Multilingual LLM Evaluation for Medical Reasoning (Jan 2026 – Present | Los Angeles, CA)
 
-#### Research Assistant
+#### Research Assistant, University of Southern California
 
 ### Mechcraft Tech (Aug 2025 – Nov 2025 | Remote: New York, NY)
 
@@ -45,7 +45,7 @@ Python, Numpy, PyTorch, Scikit-learn, Pandas, MATLAB, OpenCV, MLflow
 
 ### Decentralized Finance Machine Learning Project (Jan 2024 – May 2025 | Troy, NY)
 
-#### Research Assistant
+#### Research Assistant, Rensselaer Polytechnic Institute
 
 - Designed and built a modular ML pipeline to transform large-scale survival analysis tasks into binary classification problems on Decentralized Finance (DeFi) datasets, enabling rapid experimentation and integration of new models.
 - Implemented multiple machine learning models (Logistic Regression, Random Forest, Elastic Net, XGBoost, DeepHit) using scikit-learn, PyTorch, and R, with automated training and evaluation workflows.
