@@ -20,7 +20,7 @@
 Machine Learning, Deep Learning, Large Language Model Evaluation, Reinforcement Learning, Algorithm Analysis, Probability Distribution Analysis, Statistical Analysis, Time Series Analysis, Computer Vision, Natural Language Processing
 
 ### Programming
-Python, Numpy, PyTorch, Scikit-learn, Pandas, MATLAB, OpenCV, PySpark, MLflow
+Python, Numpy, PyTorch, Scikit-learn, Pandas, MATLAB, OpenCV, MLflow
 
 ---
 
@@ -72,10 +72,8 @@ Python, Numpy, PyTorch, Scikit-learn, Pandas, MATLAB, OpenCV, PySpark, MLflow
 - First Place in Intel Edge-X Coding Competition (Sep 2023)
 - Green, A., Nie, Z., Qin, H., Seneviratne, O., Bennett, K. (2026). FinSurvival: A Suite of Large-Scale Survival Modeling Tasks from Finance. Accepted at the Data-Centric Machine Learning Research (DMLR) Workshop, 2026.
     - [`Essay`](https://www.researchgate.net/publication/393889366_FinSurvival_A_Suite_of_Large_Scale_Survival_Modeling_Tasks_from_Finance)
-    - [`DMLR Website`](https://openreview.net/forum?id=4sElt9JYTL)
 - Qin, H. (2024). Enhancing automotive interior automation through face analysis techniques. The 6th International Conference on Computing and Data Science.
     - [`Essay`](https://www.researchgate.net/publication/380208969_Enhancing_automotive_interior_automation_through_face_analysis_techniques)
-    - [`Conference Website`](https://www.confcds.org)
 
 ---
 
