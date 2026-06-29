@@ -17,9 +17,11 @@
 ## Skills
 
 ### Analytical
+
 Machine Learning, Deep Learning, Large Language Model Evaluation, Reinforcement Learning, Algorithm Analysis, Probability Distribution Analysis, Statistical Analysis, Time Series Analysis, Computer Vision, Natural Language Processing
 
 ### Programming
+
 Python, Numpy, PyTorch, Scikit-learn, Pandas, MATLAB, OpenCV, MLflow
 
 ---
@@ -28,7 +30,7 @@ Python, Numpy, PyTorch, Scikit-learn, Pandas, MATLAB, OpenCV, MLflow
 
 ### Graph-Grounded Multilingual LLM Evaluation for Medical Reasoning (Jan 2026 – Present | Los Angeles, CA)
 
-#### Research Assistant, USC Professor-Led Research Project
+#### Research Assistant
 
 ### Mechcraft Tech (Aug 2025 – Nov 2025 | Remote: New York, NY)
 
@@ -43,7 +45,8 @@ Python, Numpy, PyTorch, Scikit-learn, Pandas, MATLAB, OpenCV, MLflow
 
 ### Decentralized Finance Machine Learning Project (Jan 2024 – May 2025 | Troy, NY)
 
-#### Research Assistant, Undergraduate Research Program
+#### Research Assistant
+
 - Designed and built a modular ML pipeline to transform large-scale survival analysis tasks into binary classification problems on Decentralized Finance (DeFi) datasets, enabling rapid experimentation and integration of new models.
 - Implemented multiple machine learning models (Logistic Regression, Random Forest, Elastic Net, XGBoost, DeepHit) using scikit-learn, PyTorch, and R, with automated training and evaluation workflows.
 - Developed a robust feature engineering and data preprocessing framework, including dynamic SMOTE oversampling, automated hyperparameter tuning and validation-driven model selection to maximize predictive performance.
@@ -53,6 +56,7 @@ Python, Numpy, PyTorch, Scikit-learn, Pandas, MATLAB, OpenCV, MLflow
 ### Capgemini Consulting (Jun 2024 - Aug 2024 | Shanghai, China)
 
 #### Algorithm Engineer Intern
+
 - Developed and implemented a Python-based optimization model for the Vehicle Routing Problem with Time Windows (VRPTW) to improve logistics routing efficiency.
 - Leveraged K-means and hierarchical clustering to group delivery orders and in each cluster applied Dijkstra algorithm for shortest-path calculation.
 - Enhanced route feasibility by integrating the 2-opt algorithm to eliminate path self-intersections, resulting in optimized and cleaner routing solutions.
@@ -61,6 +65,7 @@ Python, Numpy, PyTorch, Scikit-learn, Pandas, MATLAB, OpenCV, MLflow
 ### Rensselaer Polytechnic Institute (Jan 2025 - May 2025 | Troy, NY)
 
 #### Undergraduate Mentor Program
+
 - Undergraduate mentor of computer science class - INTRO TO ARTIFICIAL INTELLIG (CSCI-4150)
 - Led weekly help sessions and office hours to guide students through AI-related programming assignments.
 - Collaborated with the instructor to analyze frequent student issues and adjust course explanations, examples, and practice materials to improve overall comprehension.
