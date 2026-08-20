@@ -18,7 +18,7 @@
 
 ### Analytical
 
-Machine Learning, Deep Learning, Large Language Model Evaluation, Reinforcement Learning, Algorithm Analysis, Probability Distribution Analysis, Statistical Analysis, Time Series Analysis, Computer Vision, Natural Language Processing
+Machine Learning, Deep Learning, Large Language Model Evaluation, SFT Data Generation and Processing, Reinforcement Learning, Algorithm Analysis, Time Series Analysis, Computer Vision, Natural Language Processing
 
 ### Programming
 
@@ -31,6 +31,7 @@ Python, Numpy, PyTorch, Scikit-learn, Pandas, MATLAB, OpenCV, MLflow
 ### Graph-Grounded Multilingual LLM Evaluation for Medical Reasoning (Jan 2026 – Present | Los Angeles, CA)
 
 #### Research Assistant, University of Southern California
+
 
 ### Mechcraft Tech (Aug 2025 – Nov 2025 | Remote: New York, NY)
 
